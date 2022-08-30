@@ -1,7 +1,3 @@
-# Susmita_Portfolio
-## My Data Science Portfolio
-
-
 # [Project 1 : Web_Scraping using Python libraries](https://github.com/sush-mita/Web_Scraping)
 - Did Web Scraping on IMDB page using Requests, Beautiful Soup and Pandas
 - I extracted top 50 movies from each genre.
