@@ -8,7 +8,7 @@
 - I got information like Movie Title,Rating,Year of release,certificate rating for each movie.
 - I then imported data of each Genere into a CSV file 
 
-![](https://github.com/sush-mita/Susmita_Portfolio/blob/main/images/web.PNG)
+![](/images/web.PNG)
 
 # [Project 2a : Data_Extraction_API from Youtube API](https://github.com/sush-mita/Youtube_Data_Extraction_Through_API)
 - I extracted Data from a Youtubel channnel using Requests,Pandas.
@@ -16,4 +16,4 @@
 - I Extracted basic Youtube Video ddata like Video Title, ID, Uploaded Date, No of Likes,views and comments for Each Video using Youtube Data API.
 - I then appended all this into a dataframe. 
 
-![](https://github.com/sush-mita/Susmita_Portfolio/blob/main/images/you.PNG)
+![](/images/you.PNG)
