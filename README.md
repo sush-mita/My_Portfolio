@@ -29,18 +29,18 @@
 ### Project 2 Images : Database Updates 
 ##### The DataFrame Video Details
 
-![](/images/cloud%20(1).PNG)
+![](/images/cloud (1).PNG)
 
 ##### The Old Dataframe Video Details in the Database
 
-![](/images/cloud%20(2).PNG)
+![](/images/cloud (2).PNG)
 
 ##### The Temp Dataframe Storing New Video Details
 
-![](/images/cloud%20(4).PNG)
+![](/images/cloud (4).PNG)
 
 ##### The New Uploaded videos in the channel, which are reflecting in the Database as well.
 
-![](/images/cloud%20(3).PNG)
+![](/images/cloud (3).PNG)
 
 
