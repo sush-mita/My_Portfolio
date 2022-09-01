@@ -26,8 +26,8 @@
 - I used psycopg2 adapter to connect to the postgre AWS Database.
 - I then uploaded the values returing from the API into the database and have also written a function to update it whenever new videos or changes to the existing videos are made in the youtube channel.
 
-### Prject 2 Images : Database Updates 
-![The DataFrame Video Details](https://github.com/sush-mita/Susmita_Portfolio/blob/main/images/cloud%20(1).PNG)
+### Project 2 Images : Database Updates 
+![The DataFrame Video Details](/images/cloud%20(1).PNG)
 ![The Old Dataframe Video Details in the Database](/images/cloud(2).PNG)
 ![The Temp Dataframe Storing New Video Details](/images/cloud(4).PNG)
 ![The New Uploaded videos in the channel, which are reflecting in the Database as well.](/images/cloud(3).PNG)
