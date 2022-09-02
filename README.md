@@ -1,4 +1,4 @@
-# [Project 1 : Web_Scraping using Python libraries](https://github.com/sush-mita/Web_Scraping)
+# [Project 1 : Web_Scraping Using Python](https://github.com/sush-mita/Web_Scraping)
 - Did Web Scraping on IMDB page using Requests, Beautiful Soup and Pandas
 - I extracted top 50 movies from each genre.
 - I got information like Movie Title,Rating,Year of release,certificate rating for each movie.
@@ -6,7 +6,8 @@
 
 ![](/images/web.PNG)
 
-# Project 2 : This Project has two Parts : 
+# Project 2 : Data Extraction through API and Importing Data into AWS Cloud Database 
+### This Project has two Parts : 
 - Part 1 : Extracting Data from a Youtube API. 
 - Part 2 : Uploadng the Data from the API to a Cloud Database.
 
@@ -29,18 +30,18 @@
 ### Project 2 Images : Database Updates 
 ##### The DataFrame Video Details
 
-![](/images/cloud (1).PNG)
+![](/images/df.PNG)
 
 ##### The Old Dataframe Video Details in the Database
 
-![](/images/cloud (2).PNG)
+![](/images/db.PNG)
 
 ##### The Temp Dataframe Storing New Video Details
 
-![](/images/cloud (4).PNG)
+![](/images/new_df.PNG)
 
 ##### The New Uploaded videos in the channel, which are reflecting in the Database as well.
 
-![](/images/cloud (3).PNG)
+![](/images/update_db.PNG)
 
 
