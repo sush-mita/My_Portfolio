@@ -13,10 +13,11 @@
 - Part 2 : Uploadng the Data from the API to a Cloud Database.
 
 ## [Project 2a : Data_Extraction_API from Youtube API](https://github.com/sush-mita/Youtube_Data_Extraction_Through_API)
-- I extracted Data from a Youtubel channnel using Requests,Pandas.
-- I used Google Youtube Data API for this project.
-- I Extracted basic Youtube Video ddata like Video Title, ID, Uploaded Date, No of Likes,views and comments for Each Video using Youtube Data API.
-- I then appended all this into a dataframe. 
+### Objective: Data Extraction through YouTube API
+- Extracted Data from a YouTube channel using Requests, Pandas.
+- Used Google YouTube Data API though the API key and the specific Channel Id. 
+- Took T-series Data through the API and scraped basic YouTube Video data like Video Title, ID, Uploaded Date, No of Likes, views and comments for Each Video using YouTube Data API.
+- The Scraped data was then transformed into a Dataframe and error and exception handling were put in place to avoid any missing data
 
 ![](/images/you.PNG)
 
