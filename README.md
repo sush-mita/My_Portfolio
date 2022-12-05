@@ -1,8 +1,9 @@
 # [Project 1 : Web_Scraping Using Python](https://github.com/sush-mita/Web_Scraping)
-- Did Web Scraping on IMDB page using Requests, Beautiful Soup and Pandas
-- I extracted top 50 movies from each genre.
-- I got information like Movie Title,Rating,Year of release,certificate rating for each movie.
-- I then imported data of each Genere into a CSV file 
+### Objective : To  Scrape IMDB Website using Beautiful Soup Library.
+- Scraped IMDB Website using Requests, Beautiful Soup and Pandas
+- Extracted top 50 movies from each genre.
+- Information like Movie Title,Rating,Year of release,certificate rating for each movie was scraped.
+- Exported the extracted data of each Genere into a CSV file
 
 ![](/images/web.PNG)
 
